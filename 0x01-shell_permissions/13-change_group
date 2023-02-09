@@ -1,2 +1,2 @@
 #!/bin/bashJ
-chgr school hello
+chgrp school hello
