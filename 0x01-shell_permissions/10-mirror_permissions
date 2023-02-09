@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --difference=olleh hello
+chmod --reference=olleh hello
